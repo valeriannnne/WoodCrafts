@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\Images"
+	},
+	{
+		"path": "..\\frontend"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Website"
+  }
+}
